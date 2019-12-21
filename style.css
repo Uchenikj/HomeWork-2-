@@ -7,7 +7,7 @@
     margin-bottom: 135px;
 }
 .menu {
-    margin: auto;
+    display: inline-block;
     width: 630px;
     height: 11px;
     margin-bottom: 95px;
@@ -18,16 +18,16 @@
     font-size: 30px
 }
 a { 
-    margin: auto;
     text-decoration: none;
     color: brown;
     text-transform: uppercase;
     padding: 10px 15px;
     margin: 0 3px;
     color: grey;
+    display: inline-block;
 }
 .li {
-    
+    display: inline-block;
 }
 .footer {
   height: 60px;
